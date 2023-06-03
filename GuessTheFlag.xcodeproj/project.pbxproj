@@ -11,6 +11,7 @@
 		DD21A3382A06FE680062A010 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD21A3372A06FE680062A010 /* ContentView.swift */; };
 		DD21A33A2A06FE690062A010 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD21A3392A06FE690062A010 /* Assets.xcassets */; };
 		DD21A33D2A06FE690062A010 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD21A33C2A06FE690062A010 /* Preview Assets.xcassets */; };
+		DDF419742A2BCB1200D6364B /* ImageModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDF419732A2BCB1200D6364B /* ImageModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DD21A3372A06FE680062A010 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DD21A3392A06FE690062A010 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD21A33C2A06FE690062A010 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DDF419732A2BCB1200D6364B /* ImageModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				DD21A3352A06FE680062A010 /* GuessTheFlagApp.swift */,
 				DD21A3372A06FE680062A010 /* ContentView.swift */,
+				DDF419732A2BCB1200D6364B /* ImageModifier.swift */,
 				DD21A3392A06FE690062A010 /* Assets.xcassets */,
 				DD21A33B2A06FE690062A010 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDF419742A2BCB1200D6364B /* ImageModifier.swift in Sources */,
 				DD21A3382A06FE680062A010 /* ContentView.swift in Sources */,
 				DD21A3362A06FE680062A010 /* GuessTheFlagApp.swift in Sources */,
 			);
